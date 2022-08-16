@@ -1,3 +1,6 @@
+# 忽略当前目录下的 txt 文本文档
+/*.txt
+
 .DS_Store
 node_modules
 /dist

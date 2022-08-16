@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "info": "早晨5点起床看日出，跑步、洗漱、吃早餐。",
+    "done": false
+  },
+  { "id": 1, "info": "6点准时学习！", "done": false },
+  {
+    "id": 2,
+    "info": "12点吃午餐，吃完午休30分钟！1点半开始午练！",
+    "done": false
+  },
+  { "id": 3, "info": "晚上11点睡觉，自律！！", "done": false },
+  { "id": 4, "info": "醒来发现是一场梦~", "done": false },
+  { "id": 5, "info": "测试", "done": true }
+]
